@@ -7,9 +7,9 @@ body {
 }
 
 .about-me {
- margin: 2px
- border: 2px solid black;
- border-radius: 15px;
- background-color: black;
-
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ flex-basis: 10px;
 }
