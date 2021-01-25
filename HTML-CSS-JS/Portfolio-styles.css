@@ -28,6 +28,17 @@ body {
  display: inline-block;
 }
 
+.heading{
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ align-items: center;
+}
+
+.heading > div {
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
 /* link style */
 a:link {
  color: white;
