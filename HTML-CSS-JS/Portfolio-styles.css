@@ -7,11 +7,17 @@ body {
 }
 
 .about-me {
- display: inline-flex;
+ display: flex;
  flex-direction: column;
+ text-align: center;
  align-items: center;
  justify-content: center;
  border: 1px solid black;
+ border-radius: 15px;
+ background-color: black;
  flex-basis: content;
+}
 
+.info-me-list {
+ display: inline-block;
 }
