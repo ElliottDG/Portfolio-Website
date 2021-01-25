@@ -2,15 +2,16 @@
 
 body {
  background-color: grey;
- color: white
+ color: white;
 
 }
 
 .about-me {
- display: flex;
- justify-content: center;
- align-items: center;
+ display: inline-flex;
  flex-direction: column;
- border-radius: 15px;
- background-color: black
+ align-items: center;
+ justify-content: center;
+ border: 1px solid black;
+ flex-basis: content;
+
 }
