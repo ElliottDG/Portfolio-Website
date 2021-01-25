@@ -2,7 +2,7 @@
 body {
  background-color: grey;
  color: white;
-
+font-family: Raleway, sans-serif;
 }
 /* styles box in middle of home screen*/
 .about-me {
@@ -12,7 +12,6 @@ body {
  align-items: center;
  justify-content: center;
  flex-basis: content;
- font-family: Raleway, sans-serif;
 }
 
 
@@ -34,7 +33,7 @@ body {
  flex-direction: column;
  text-align: center;
  align-items: center;
- font-family: Raleway, sans-serif;
+
 }
 
 
