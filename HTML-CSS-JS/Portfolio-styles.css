@@ -11,5 +11,6 @@ body {
  justify-content: center;
  align-items: center;
  flex-direction: column;
- flex-basis: 
+ border-radius: 15px;
+ background-color: black
 }
