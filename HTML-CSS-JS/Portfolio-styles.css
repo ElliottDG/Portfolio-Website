@@ -46,6 +46,7 @@ body {
  text-align: center;
  align-items: center;
  justify-content: flex-start;
+ align-content: center;
 }
 
 .menu-bar > div {
