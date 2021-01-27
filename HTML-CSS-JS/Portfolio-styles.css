@@ -27,7 +27,7 @@ body {
 .socials-icon {
  width: 50px;
  padding: 15px;
- 
+
 }
 
 /* styling the heading of home page */
@@ -62,7 +62,7 @@ body {
 nav {
  width: 100%;
  background-color: black;
- padding: 20px;
+ padding: 15px;
  position: fixed;
 }
 
