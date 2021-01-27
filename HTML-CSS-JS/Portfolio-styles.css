@@ -24,8 +24,10 @@ body {
  z-index: 1;
 }
 
-.socials {
- width: 100px;
+.socials-icon {
+ width: 50px;
+ padding: 15px;
+ 
 }
 
 /* styling the heading of home page */
