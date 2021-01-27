@@ -24,7 +24,9 @@ body {
  z-index: 1;
 }
 
-
+.socials {
+ width: 100px;
+}
 
 /* styling the heading of home page */
 .heading{
