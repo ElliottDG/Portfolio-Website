@@ -19,7 +19,7 @@ body {
 
 .about-me > div {
  background-color: black;
- border-radius: 15px;
+ border-radius: 25px;
  padding: 15px;
  z-index: 1;
 }
