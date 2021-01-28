@@ -85,6 +85,25 @@ a:hover {
  text-decoration: none;
 }
 
+.error-box {
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ align-items: center;
+ justify-content: center;
+ flex-basis: content;
+ z-index: 1;
+}
+
+.error-box > div {
+ background-color: black;
+ border-radius: 25px;
+ padding: 25px;
+ z-index: 1;
+}
+
+
+
 /* background animation*/
 .area{
     background: #F34242;
