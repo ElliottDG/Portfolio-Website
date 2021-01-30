@@ -130,7 +130,7 @@ margin: 10px;
 text-align: center;
 overflow: hidden;
 height: auto
-flex: 1 0 min(400px, 25%);
+flex: 100% 0% min(400px, 80vw);
 
 }
 
@@ -147,6 +147,7 @@ font-size: 25px;
 
 .project-description {
 font-size: 0.75em;
+margin: 10px;
 }
 
 .project-link {
