@@ -125,15 +125,12 @@ a:hover {
 .project-box {
 display: flex;
 flex-flow: column nowrap;
-height: auto;
 align-items: center;
 margin: 10px;
 text-align: center;
 overflow: hidden;
-height: auto;
-position: absolute;
-flex-grow: 1;
-flex-basis: min(400px, 25%);
+height: auto
+flex: 1 0 min(400px, 25%);
 
 }
 
