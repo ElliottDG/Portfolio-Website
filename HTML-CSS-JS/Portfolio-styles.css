@@ -108,6 +108,8 @@ a:hover {
  z-index: 1;
 }
 
+
+/*Projects page*/
 .page-description {
  display: flex;
  flex-direction: column;
@@ -118,6 +120,22 @@ a:hover {
 .page-description > div {
  padding: 5px 0px;
  z-index: 1;
+}
+
+.project-box {
+
+}
+
+.project-heading {
+
+}
+
+.project-description {
+
+}
+
+.project-link {
+ 
 }
 
 /* background animation*/
