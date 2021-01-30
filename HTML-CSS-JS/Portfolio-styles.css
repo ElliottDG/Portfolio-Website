@@ -108,7 +108,17 @@ a:hover {
  z-index: 1;
 }
 
+.page-description {
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ align-items: center;
+}
 
+.page-description > div {
+ padding: 5px 0px;
+ z-index: 1;
+}
 
 /* background animation*/
 .area{
