@@ -123,19 +123,37 @@ a:hover {
 }
 
 .project-box {
+display: flex;
+flex-flow: column nowrap;
+height: auto;
+align-items: center;
+margin: 10px;
+text-align: center;
+overflow: hidden;
+height: auto;
+position: absolute;
+flex-grow: 1;
+flex-basis: min(400px, 25%);
 
+}
+
+.project-box > div {
+ background-color: black;
+ border: 5px solid black;
+ border-radius: 10px;
+ z-index: 1;
 }
 
 .project-heading {
-
+font-size: 25px;
 }
 
 .project-description {
-
+font-size: 0.75em;
 }
 
 .project-link {
- 
+
 }
 
 /* background animation*/
