@@ -124,20 +124,20 @@ a:hover {
 
 .project-box {
 display: flex;
-flex-flow: column nowrap;
+flex-flow: row nowrap;
 align-items: center;
 margin: 10px;
 text-align: center;
 overflow: hidden;
 height: auto
-flex: 100% 0% min(400px, 80vw);
-
+justify-content: center;
 }
 
 .project-box > div {
  background-color: black;
  border: 5px solid black;
  border-radius: 10px;
+ flex: 1 1 400px;
  z-index: 1;
 }
 
