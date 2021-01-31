@@ -125,7 +125,7 @@ a:hover {
 .project-box {
 display: flex;
 flex-flow: row nowrap;
-align-items: center;
+align-items: stretch;
 margin: 10px;
 text-align: center;
 overflow: hidden;
