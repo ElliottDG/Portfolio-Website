@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="300"
+   viewBox="0 0 132.29167 79.375002"
+   version="1.1"
+   id="svg58"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="EG-logo.svg">
+  <defs
+     id="defs52" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#f14538"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70835322"
+     inkscape:cx="195.01516"
+     inkscape:cy="541.42857"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata55">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217.62497)">
+    <rect
+       style="fill:#f34242;stroke-width:0.64893526;fill-opacity:1"
+       id="rect3778"
+       width="121.02014"
+       height="72.089149"
+       x="5.6357627"
+       y="221.2679"
+       rx="3.96875"
+       ry="3.96875" />
+    <g
+       id="SvgjsG1755"
+       featurekey="nameFeature-0"
+       transform="matrix(1.2392107,0,0,1.2392107,37.704655,225.09324)">
+      <path
+         d="m 20.322,35.6076 c 1.213,0 2.196,0.98332 2.196,2.1961 0,1.21278 -0.98328,2.196 -2.196,2.196 H 3.797 c -1.2128,0 -2.196,-0.98328 -2.196,-2.196 v -7.0824 c 0,-1.2128 0.98328,-2.196 2.196,-2.196 H 6.7581 L 2.2445,24.0117 c -0.85784,-0.85756 -0.85784,-2.248 0,-3.1056 0.85756,-0.85756 2.248,-0.85756 3.1056,0 l 8.2628,8.2628 c 0.62808,0.62808 0.81584,1.5726 0.476,2.3932 -0.33984,0.8206 -1.1406,1.3555 -2.0289,1.3555 H 5.9934 v 2.6902 h 14.329 z M 21.502,12 c 1.213,0 2.1963,0.98328 2.1963,2.196 0,1.21272 -0.98328,2.196 -2.196,2.196 H 9.0983 l 4.5136,4.5136 c 0.85784,0.85756 0.85784,2.248 0,3.1056 -0.4288,0.4288 -0.99072,0.64316 -1.5529,0.64316 -0.56218,0 -1.1241,-0.21438 -1.5529,-0.64316 L 2.2433,15.7484 C 1.61522,15.12032 1.42746,14.1758 1.7673,13.3552 2.10714,12.5346 2.9079,11.9997 3.7962,11.9997 h 17.706 z m 20.604,15.345 c 1.213,0 2.196,0.98328 2.196,2.196 C 44.302,35.3078 39.61,40 33.843,40 28.076,40 23.384,35.308 23.384,29.541 v -7.0824 c 0,-5.7668 4.692,-10.459 10.459,-10.459 5.767,0 10.459,4.692 10.459,10.459 0,1.2128 -0.98328,2.196 -2.196,2.196 -1.21272,0 -2.196,-0.98328 -2.196,-2.196 0,-3.3452 -2.7215,-6.0668 -6.0668,-6.0668 -3.3453,0 -6.0668,2.7215 -6.0668,6.0668 v 7.0824 c 0,3.3452 2.7215,6.0668 6.0668,6.0668 2.571,0 4.7736,-1.6075 5.6556,-3.8706 h -5.6554 c -1.2128,0 -2.196,-0.98328 -2.196,-2.196 0,-1.21272 0.98328,-2.196 2.196,-2.196 h 8.2627 z"
+         id="path33"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
