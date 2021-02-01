@@ -124,13 +124,12 @@ a:hover {
 
 .project-box {
 display: flex;
-flex-flow: row nowrap;
+flex-flow: row wrap;
 align-items: stretch;
 margin: 10px;
 text-align: center;
 overflow: hidden;
 justify-content: center;
-max-width: 100%;
 
 }
 
@@ -138,7 +137,7 @@ max-width: 100%;
  display: flex;
  align-items: center;
  justify-content: space-between;
- flex-flow: column nowrap;
+ flex-direction: column;
  background-color: black;
  border: 5px solid black;
  border-radius: 10px;
